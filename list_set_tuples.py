@@ -1,6 +1,6 @@
 # # ctrl + / to comment
-# new git experiment //
-# list set , tuples
+# list set , tuples 
+# experimental git code
 # ------------------
 
 # 1.list
@@ -27,7 +27,9 @@ setOfColonge = {"Givenchy", 1, "Cobra", 2}
 print(" sets of colonge: ", setOfColonge)
 
 # sets can be used in sceneario where we want to delete duplicate elements eg
-# eg A user trying to log in at multiple times
-listOfEmployee = [1, 2, 3, 4, 5, 6, 1]
-setOfEmployee = set(listOfEmployee)
-print("Set of employee", setOfEmployee)
+# eg A user trying to log in at multiple times 
+listOfEmployee=[1,2,3,4,5,6,1];
+setOfEmployee=set(listOfEmployee)
+print("Set of employee",setOfEmployee)
+
+
